@@ -1,0 +1,23 @@
+﻿  dllmain.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\Pasto\Desktop\Open Source Spoofer\Dll\Dll\dllmain.cpp(199,30): warning C4129: '$': unrecognized character escape sequence
+C:\Users\Pasto\Desktop\Open Source Spoofer\Dll\Dll\dllmain.cpp(1232,14): warning C4129: 'P': unrecognized character escape sequence
+C:\Users\Pasto\Desktop\Open Source Spoofer\Dll\Dll\dllmain.cpp(1232,14): warning C4129: 'E': unrecognized character escape sequence
+C:\Users\Pasto\Desktop\Open Source Spoofer\Dll\Dll\dllmain.cpp(1232,14): warning C4129: 'F': unrecognized character escape sequence
+C:\Users\Pasto\Desktop\Open Source Spoofer\Dll\Dll\dllmain.cpp(1232,14): warning C4129: 'B': unrecognized character escape sequence
+C:\Users\Pasto\Desktop\Open Source Spoofer\Dll\Dll\dllmain.cpp(1232,14): warning C4129: 'W': unrecognized character escape sequence
+C:\Users\Pasto\Desktop\Open Source Spoofer\Dll\Dll\dllmain.cpp(1232,14): warning C4129: 'S': unrecognized character escape sequence
+C:\Users\Pasto\Desktop\Open Source Spoofer\Dll\Dll\dllmain.cpp(1482,14): warning C4129: 'E': unrecognized character escape sequence
+C:\Users\Pasto\Desktop\Open Source Spoofer\Dll\Dll\dllmain.cpp(1483,14): warning C4129: 'E': unrecognized character escape sequence
+C:\Users\Pasto\Desktop\Open Source Spoofer\Dll\Dll\dllmain.cpp(1484,14): warning C4129: 'E': unrecognized character escape sequence
+C:\Users\Pasto\Desktop\Open Source Spoofer\Dll\Dll\dllmain.cpp(132,127): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Pasto\Desktop\Open Source Spoofer\Dll\Dll\dllmain.cpp(134,126): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Pasto\Desktop\Open Source Spoofer\Dll\Dll\dllmain.cpp(136,127): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Pasto\Desktop\Open Source Spoofer\Dll\Dll\dllmain.cpp(138,126): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Pasto\Desktop\Open Source Spoofer\Dll\Dll\dllmain.cpp(140,142): warning C4390: ';': empty controlled statement found; is this the intent?
+  Generating code
+  261 of 591 functions (44.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Dll.vcxproj -> C:\Users\Pasto\Desktop\Open Source Spoofer\Dll\x64\Release\Dll.dll
