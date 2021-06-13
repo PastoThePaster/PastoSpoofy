@@ -2,7 +2,7 @@
 
 /*
 
-Source made by Pasto#1337 if you sell this you big gay :kiss:
+Source made by piss toe#1337 if you sell this you big gay :kiss:
 
 MOST ANTI DEBUG IS FROM: https://github.com/KeyAuth/P2C-Example
 
